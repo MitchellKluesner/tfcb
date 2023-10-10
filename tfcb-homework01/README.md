@@ -34,4 +34,4 @@ Here is the link to my [README.txt](https://github.com/MitchellKluesner/tfcb/blo
 
 ## Problem 6
 
-Here is the link to my [cleaned .xlsx]() and paired [.csv file]()
+Here is the link to my [cleaned .xlsx](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework01/Survey%20Data.xlsx) and paired [.csv file](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework01/survey.csv)

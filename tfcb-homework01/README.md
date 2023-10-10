@@ -24,31 +24,14 @@ Here is the link to my [TFCB Homework 01](https://github.com/MitchellKluesner/tf
 
 **15 points**
 
-Here is the link to my [images directory]().
-_Include the link to your `tfcb-homework01` GitHub repository here._
+Here is the link to my [images directory](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework01/README.md).
 
 ## Problem 5
 
 **20 points**
 
-This question assesses your ability to write a README with Markdown formatting.
-
-Create a file called `README.md` and populate with Markdown. Demonstrate headers, lists, links, embedded images (by linking to images contained in the directory) and tables in this readme.
-
-Commit this file and publish to your public GitHub repository.
-
-_Include the link to your `README.md` here._
+Here is the link to my [README.txt](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework01/README.md)
 
 ## Problem 6
 
-**20 points**
-
-This question assesses your understanding of tidy data principles.
-
-Clean up the file that was originally named `Survey Data.xlsx`. Some points to remember: aim for a single tidy data frame in a single tab, don't use formatting as data, use preferred date format, properly record null values.
-
-Export this as a tab-delimited `.csv` text file with Unix line endings.
-
-Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
-
-_Include the link to your `.csv` file on GitHub here._
+Here is the link to my [cleaned .xlsx]() and paired [.csv file]()

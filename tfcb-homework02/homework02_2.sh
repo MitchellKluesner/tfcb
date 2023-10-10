@@ -5,6 +5,7 @@ cd question02
 
 while read n; do
   echo "Hello my precious ${n}!!!" > "file${n}.txt"
+<<<<<<< HEAD
 done <../homework02/list.txt
 
 
@@ -15,3 +16,6 @@ done <../homework02/list.txt
 # ls $LECTURE_DIR
 # mkdir homework02
 # mv list.txt homework02
+=======
+done <../homework02/list.txt
+>>>>>>> 2a0a276 (Homework02 Push)

@@ -4,10 +4,14 @@
 
 **60 points**
 
+<<<<<<< HEAD
 Complete the interactive tutorial.
 
 _Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration?_
 
+=======
+No major points of frustration, I think that the folder name for 2022 and question01.txt should be referred to as list.txt based on the 2023 homework02 directory
+>>>>>>> 2a0a276 (Homework02 Push)
 
 ## Problem 1
 
@@ -15,6 +19,7 @@ _Did you hit any points of frustration, and if so, how could we improve the mate
 
 **Write a script that outputs some user and location data and moves that output to a newly created directory**
 
+<<<<<<< HEAD
 Make a single script that prints out a file called question01.txt. 
 
 This file should contain the following text:
@@ -46,6 +51,9 @@ sequence.gb
 slides
 vader.txt
 
+=======
+Script is [homework02_1.sh](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework02/homework02_1.sh)
+>>>>>>> 2a0a276 (Homework02 Push)
 
 ## Problem 2
 
@@ -54,6 +62,7 @@ vader.txt
 **Write a script that uses a loop to output files with specific names**
 
 
+<<<<<<< HEAD
 Make a single script that does the following:
 
 Makes a new directory in homework02 called question02
@@ -66,5 +75,8 @@ the ### should be the numbers from a list you can find here:
 tfcb_2022/homeworks/homework02/list.txt
 
 You can make the contents of those files whatever you want (hint: slide 10... what was the contents of the fake "jpg" file?)
+=======
+Script is [homework02_2.sh](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework02/homework02_2.sh)
+>>>>>>> 2a0a276 (Homework02 Push)
 
 

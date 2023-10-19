@@ -12,7 +12,7 @@ No major points of frustration, I think that the folder name for 2022 and questi
 
 **Write a script that outputs some user and location data and moves that output to a newly created directory**
 
-Script is homework02_1.sh
+Script is [homework02_1.sh](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework02/homework02_1.sh)
 
 ## Problem 2
 
@@ -21,6 +21,6 @@ Script is homework02_1.sh
 **Write a script that uses a loop to output files with specific names**
 
 
-Script is homework02_2.sh
+Script is [homework02_2.sh](https://github.com/MitchellKluesner/tfcb/blob/main/tfcb-homework02/homework02_2.sh)
 
 
